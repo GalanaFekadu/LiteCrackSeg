@@ -1,0 +1,6 @@
+numpy
+visdom
+setproctitle
+einops
+transformers
+timm
