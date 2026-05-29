@@ -61,7 +61,9 @@ cd LiteCrackSeg
 <h2 id="contact">Contact</h2>
 <p>
   For inquiries, please contact
-  <strong>Kaleb Amsalu Gobena</strong> (Email: 
+  <strong>Kaleb Amsalu Gobena</strong>
+  <strong>Galana Fekadu Asafa</strong>
+  (Email: 
   <a href="mailto:kaleb.amsalu@csu.edu.cn">kaleb.amsalu@csu.edu.cn</a>).
   <a href="mailto:nafsiif911@gmail.com">nafsiif911@gmail.com</a>).
 </p>
